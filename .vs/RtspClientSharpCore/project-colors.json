@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4c1a6515-d335-4dd5-a43c-633edcfb30da": {
+      "ProjectGuid": "4c1a6515-d335-4dd5-a43c-633edcfb30da",
+      "DisplayName": "TestRtspClient",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
