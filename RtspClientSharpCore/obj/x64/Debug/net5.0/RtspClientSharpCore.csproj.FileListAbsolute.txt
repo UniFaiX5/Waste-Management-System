@@ -22,3 +22,15 @@ C:\RtspClientSharpCore\RtspClientSharpCore\obj\x64\Debug\net5.0\RtspClientSharpC
 C:\RtspClientSharpCore\RtspClientSharpCore\obj\x64\Debug\net5.0\refint\RtspClientSharpCore.dll
 C:\RtspClientSharpCore\RtspClientSharpCore\obj\x64\Debug\net5.0\RtspClientSharpCore.pdb
 C:\RtspClientSharpCore\RtspClientSharpCore\obj\x64\Debug\net5.0\ref\RtspClientSharpCore.dll
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\RtspClientSharpCore\bin\x64\Debug\net5.0\RtspClientSharpCore.deps.json
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\RtspClientSharpCore\bin\x64\Debug\net5.0\RtspClientSharpCore.dll
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\RtspClientSharpCore\bin\x64\Debug\net5.0\RtspClientSharpCore.pdb
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\RtspClientSharpCore\obj\x64\Debug\net5.0\RtspClientSharpCore.csproj.AssemblyReference.cache
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\RtspClientSharpCore\obj\x64\Debug\net5.0\RtspClientSharpCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\RtspClientSharpCore\obj\x64\Debug\net5.0\RtspClientSharpCore.AssemblyInfoInputs.cache
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\RtspClientSharpCore\obj\x64\Debug\net5.0\RtspClientSharpCore.AssemblyInfo.cs
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\RtspClientSharpCore\obj\x64\Debug\net5.0\RtspClientSharpCore.csproj.CoreCompileInputs.cache
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\RtspClientSharpCore\obj\x64\Debug\net5.0\RtspClientSharpCore.dll
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\RtspClientSharpCore\obj\x64\Debug\net5.0\refint\RtspClientSharpCore.dll
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\RtspClientSharpCore\obj\x64\Debug\net5.0\RtspClientSharpCore.pdb
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\RtspClientSharpCore\obj\x64\Debug\net5.0\ref\RtspClientSharpCore.dll

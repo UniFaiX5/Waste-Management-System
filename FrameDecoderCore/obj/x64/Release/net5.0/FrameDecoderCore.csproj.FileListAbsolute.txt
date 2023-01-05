@@ -1,0 +1,15 @@
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\bin\x64\Release\net5.0\FrameDecoderCore.deps.json
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\bin\x64\Release\net5.0\FrameDecoderCore.dll
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\bin\x64\Release\net5.0\FrameDecoderCore.pdb
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\bin\x64\Release\net5.0\RtspClientSharpCore.dll
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\bin\x64\Release\net5.0\RtspClientSharpCore.pdb
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\obj\x64\Release\net5.0\FrameDecoderCore.csproj.AssemblyReference.cache
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\obj\x64\Release\net5.0\FrameDecoderCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\obj\x64\Release\net5.0\FrameDecoderCore.AssemblyInfoInputs.cache
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\obj\x64\Release\net5.0\FrameDecoderCore.AssemblyInfo.cs
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\obj\x64\Release\net5.0\FrameDecoderCore.csproj.CoreCompileInputs.cache
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\obj\x64\Release\net5.0\FrameDecoderCore.csproj.CopyComplete
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\obj\x64\Release\net5.0\FrameDecoderCore.dll
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\obj\x64\Release\net5.0\refint\FrameDecoderCore.dll
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\obj\x64\Release\net5.0\FrameDecoderCore.pdb
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\FrameDecoderCore\obj\x64\Release\net5.0\ref\FrameDecoderCore.dll

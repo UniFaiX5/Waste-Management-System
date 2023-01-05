@@ -27,7 +27,7 @@ namespace TestRtspClient
 
         private static void Formrunner(object obj)
         {
-            Application.Run(new Form1());
+            Application.Run(new WasteManagementSystem());
 
 
 

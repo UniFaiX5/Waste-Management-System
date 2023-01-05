@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>TestRtspClient</id>
+    <version>1.0.0</version>
+    <authors>TestRtspClient</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="FrameDecoderCore" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="RtspClientSharpCore" version="1.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.AspNetCore.Authentication.AzureAD.UI" version="6.0.8" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Data.SqlClient" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Data.SqlClient.SNI.runtime" version="5.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Identity.Client" version="4.46.1" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="13.0.1" exclude="Build,Analyzers" />
+        <dependency id="SimpleTCP" version="1.0.24" exclude="Build,Analyzers" />
+        <dependency id="System.Drawing.Common" version="6.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.IO.Ports" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\TestRtspClient\bin\Release\net6.0-windows\TestRtspClient.runtimeconfig.json" target="lib\net6.0-windows7.0\TestRtspClient.runtimeconfig.json" />
+    <file src="C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\TestRtspClient\bin\Release\net6.0-windows\TestRtspClient.dll" target="lib\net6.0-windows7.0\TestRtspClient.dll" />
+  </files>
+</package>

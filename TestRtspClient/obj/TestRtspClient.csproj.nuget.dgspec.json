@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RtspClientSharpCore\\TestRtspClient\\TestRtspClient.csproj": {}
+    "D:\\Waste-Management-System\\TestRtspClient\\TestRtspClient.csproj": {}
   },
   "projects": {
-    "C:\\RtspClientSharpCore\\FrameDecoderCore\\FrameDecoderCore.csproj": {
+    "D:\\Waste-Management-System\\FrameDecoderCore\\FrameDecoderCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RtspClientSharpCore\\FrameDecoderCore\\FrameDecoderCore.csproj",
+        "projectUniqueName": "D:\\Waste-Management-System\\FrameDecoderCore\\FrameDecoderCore.csproj",
         "projectName": "FrameDecoderCore",
-        "projectPath": "C:\\RtspClientSharpCore\\FrameDecoderCore\\FrameDecoderCore.csproj",
+        "projectPath": "D:\\Waste-Management-System\\FrameDecoderCore\\FrameDecoderCore.csproj",
         "packagesPath": "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\",
-        "outputPath": "C:\\RtspClientSharpCore\\FrameDecoderCore\\obj\\",
+        "outputPath": "D:\\Waste-Management-System\\FrameDecoderCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -34,8 +34,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
-                "projectPath": "C:\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
+              "D:\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
+                "projectPath": "D:\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
               }
             }
           }
@@ -71,18 +71,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
+    "D:\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj",
+        "projectUniqueName": "D:\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj",
         "projectName": "RtspClientSharpCore",
-        "projectPath": "C:\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj",
+        "projectPath": "D:\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj",
         "packagesPath": "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\",
-        "outputPath": "C:\\RtspClientSharpCore\\RtspClientSharpCore\\obj\\",
+        "outputPath": "D:\\Waste-Management-System\\RtspClientSharpCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -142,18 +142,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\RtspClientSharpCore\\TestRtspClient\\TestRtspClient.csproj": {
+    "D:\\Waste-Management-System\\TestRtspClient\\TestRtspClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RtspClientSharpCore\\TestRtspClient\\TestRtspClient.csproj",
+        "projectUniqueName": "D:\\Waste-Management-System\\TestRtspClient\\TestRtspClient.csproj",
         "projectName": "TestRtspClient",
-        "projectPath": "C:\\RtspClientSharpCore\\TestRtspClient\\TestRtspClient.csproj",
+        "projectPath": "D:\\Waste-Management-System\\TestRtspClient\\TestRtspClient.csproj",
         "packagesPath": "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\",
-        "outputPath": "C:\\RtspClientSharpCore\\TestRtspClient\\obj\\",
+        "outputPath": "D:\\Waste-Management-System\\TestRtspClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -176,11 +176,11 @@
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
             "projectReferences": {
-              "C:\\RtspClientSharpCore\\FrameDecoderCore\\FrameDecoderCore.csproj": {
-                "projectPath": "C:\\RtspClientSharpCore\\FrameDecoderCore\\FrameDecoderCore.csproj"
+              "D:\\Waste-Management-System\\FrameDecoderCore\\FrameDecoderCore.csproj": {
+                "projectPath": "D:\\Waste-Management-System\\FrameDecoderCore\\FrameDecoderCore.csproj"
               },
-              "C:\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
-                "projectPath": "C:\\RtspClientSharpCore\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
+              "D:\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
+                "projectPath": "D:\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
               }
             }
           }
@@ -211,9 +211,21 @@
               "target": "Package",
               "version": "[4.46.1, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "SimpleTCP": {
+              "target": "Package",
+              "version": "[1.0.24, )"
+            },
             "System.Drawing.Common": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "System.IO.Ports": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [
@@ -235,7 +247,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

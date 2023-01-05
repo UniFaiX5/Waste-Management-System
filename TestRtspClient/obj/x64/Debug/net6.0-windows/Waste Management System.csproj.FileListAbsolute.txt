@@ -1,0 +1,8 @@
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\TestRtspClient\obj\x64\Debug\net6.0-windows\Waste Management System.csproj.AssemblyReference.cache
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\TestRtspClient\obj\x64\Debug\net6.0-windows\Waste_Management_System.Properties.Resources.resources
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\TestRtspClient\obj\x64\Debug\net6.0-windows\TestRtspClient.WasteManagementSystem.resources
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\TestRtspClient\obj\x64\Debug\net6.0-windows\Waste Management System.csproj.GenerateResource.cache
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\TestRtspClient\obj\x64\Debug\net6.0-windows\Waste Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\TestRtspClient\obj\x64\Debug\net6.0-windows\Waste Management System.AssemblyInfoInputs.cache
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\TestRtspClient\obj\x64\Debug\net6.0-windows\Waste Management System.AssemblyInfo.cs
+C:\Users\Fahim.Rahmathali\source\repos\UniFaiX5\Waste-Management-System\TestRtspClient\obj\x64\Debug\net6.0-windows\Waste Management System.csproj.CoreCompileInputs.cache
