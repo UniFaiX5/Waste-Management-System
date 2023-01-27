@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+MBr4uILpvAH6ZgbS/UV4vavfDDum1lPVRo4swBRKsrP84NNUf0qxm6JCW/OG8dqhsQwy6b/2/8vWhkJj/RDLQ==",
+  "dgSpecHash": "KoY4FdmzF1Qx0eXgpEHsy7ivuWFr9T3NmKrJ7C3L4GoaI4dKZnC0Gtsa8WkmK2h4o6BOqdCYTa09bDET0x9cgw==",
   "success": true,
-  "projectFilePath": "D:\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj",
+  "projectFilePath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

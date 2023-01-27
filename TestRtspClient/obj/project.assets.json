@@ -2997,11 +2997,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Waste-Management-System\\TestRtspClient\\TestRtspClient.csproj",
+      "projectUniqueName": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\Waste-Management-System\\TestRtspClient\\TestRtspClient.csproj",
       "projectName": "TestRtspClient",
-      "projectPath": "D:\\Waste-Management-System\\TestRtspClient\\TestRtspClient.csproj",
+      "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\Waste-Management-System\\TestRtspClient\\TestRtspClient.csproj",
       "packagesPath": "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\",
-      "outputPath": "D:\\Waste-Management-System\\TestRtspClient\\obj\\",
+      "outputPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\Waste-Management-System\\TestRtspClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3024,11 +3024,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\Waste-Management-System\\FrameDecoderCore\\FrameDecoderCore.csproj": {
-              "projectPath": "D:\\Waste-Management-System\\FrameDecoderCore\\FrameDecoderCore.csproj"
+            "C:\\Users\\Fahim.Rahmathali\\source\\repos\\Waste-Management-System\\FrameDecoderCore\\FrameDecoderCore.csproj": {
+              "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\Waste-Management-System\\FrameDecoderCore\\FrameDecoderCore.csproj"
             },
-            "D:\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
-              "projectPath": "D:\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
+            "C:\\Users\\Fahim.Rahmathali\\source\\repos\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
+              "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
             }
           }
         }

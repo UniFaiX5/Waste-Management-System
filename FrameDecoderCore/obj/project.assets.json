@@ -2592,11 +2592,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Waste-Management-System\\FrameDecoderCore\\FrameDecoderCore.csproj",
+      "projectUniqueName": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\Waste-Management-System\\FrameDecoderCore\\FrameDecoderCore.csproj",
       "projectName": "FrameDecoderCore",
-      "projectPath": "D:\\Waste-Management-System\\FrameDecoderCore\\FrameDecoderCore.csproj",
+      "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\Waste-Management-System\\FrameDecoderCore\\FrameDecoderCore.csproj",
       "packagesPath": "C:\\Users\\Fahim.Rahmathali\\.nuget\\packages\\",
-      "outputPath": "D:\\Waste-Management-System\\FrameDecoderCore\\obj\\",
+      "outputPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\Waste-Management-System\\FrameDecoderCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2619,8 +2619,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
-              "projectPath": "D:\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
+            "C:\\Users\\Fahim.Rahmathali\\source\\repos\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj": {
+              "projectPath": "C:\\Users\\Fahim.Rahmathali\\source\\repos\\Waste-Management-System\\RtspClientSharpCore\\RtspClientSharpCore.csproj"
             }
           }
         }
